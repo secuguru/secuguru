@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @secuguru
-- 👀 I’m interested in how can I become a security guru.
+- 👀 I’m interested in studying security domain.
 
 <!---
 secuguru/secuguru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
